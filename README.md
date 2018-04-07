@@ -5,11 +5,9 @@ We are a group of 4 seaking to find the answer to the question :
 
     What does it take to become an MVP in the NBA?
 
-![confused](Images/nick-young-confused-face.png)
+![confused](Images/nick-young-confused-face.jpg)
 
-
-## Trust (Our) Process 
-___ 
+## Trust The Process 
 
 ![the process](Images/The_Process.jpg)
 
@@ -22,7 +20,6 @@ From the stats available we selected the "n" features below.
 - 
 
 ## Findings
-___
 
 Based on our findings the MVP for the 2018 Season will be:
 
@@ -32,8 +29,6 @@ We found the features below hold the most weight in this prediction:
 _
 _ 
 _
-
-___
 
 ### Group Members:
 
